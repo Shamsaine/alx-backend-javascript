@@ -1,7 +1,7 @@
 #!/bin/usr/env node
 
-function displayMessage(message){
-	console.log(message);
+function displayMessage(){
+	console.log("Hello NodeJS!");
 }
 
 module.export = displayMessage;
